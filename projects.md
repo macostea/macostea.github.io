@@ -4,7 +4,7 @@ title: Mihai Costea - Projects
 permalink: /projects
 ---
 
-## Android OS development
+# Android OS development
 I believe I got my first smartphone in 2010 after a lot of research, checking reviews, 
 saving up money and, of course, asking my parents to renew their phone subscription so I 
 could get it partially subsidized (don't fall for it, folks) I got the wonderful 
@@ -19,11 +19,11 @@ The XDA community was awesome and really helped me out and encouraged me to make
 They were also super kind and donated to keep the servers alive for me to build the (then) newer 
 Android versions. You can check out some of the posts about this [here](http://oxygen-for-p500.blogspot.ro/).
 
-## iOS
+# iOS
 Even though I started out with Android, I was always fascinated by Apple and all of their 
 wonderful products. Also I was exited to start creating apps rather than working at OS level. I saved enough money to buy a [MacBook Unibody](https://en.wikipedia.org/wiki/MacBook#Unibody_polycarbonate_model) (which still works btw) and the path to iOS development was right in front of me. Here are some of the projects I worked on:
 
-### GPS Navigation by Scout
+## GPS Navigation by Scout
 The first real-life iOS app I've worked on. Delightful to use, super popular in Europe and 
 with a great team behind it.
 
@@ -33,7 +33,7 @@ major refactoring effort (Monolith, BOO! Reusable components, YAY!)
 
 Download the app here: [GPS Navigation by Scout](https://itunes.apple.com/ro/app/id374147871)
 
-### ZenQ
+## ZenQ
 ZenQ was my first contact with the startup world, that's why I'm not going to go into much detail 
 about it here. There is a special section below dedicated to all the amazing startups I've worked 
 on so check out the story there.
@@ -44,7 +44,7 @@ and in-app messaging the app quickly grew in the hearts of many.
 
 Check out ZenQ here //TODO: ADD ZENQ LINKS, and also the story behind it below.
 
-### Catwalk15
+## Catwalk15
 You know enough about me so far to understand that I don't really stop. Challenges are my 
 lifeblood and Catwalk15, a cool app targeted to people looking for 
 feedback on their outfits, came at a perfect time. The team was so fun to work with and they had a nice vision for their startup.
@@ -58,7 +58,7 @@ I heard the team recently made an exit so congratulations to them!
 
 Check out Catwalk15 at their [official website](http://www.catwalk15.com/).
 
-### Open source
+## Open source
 After a while in my career I realized that I was super effective at building apps using 
 open source components that I mostly just took for granted. So I looked into how I could 
 contribute to the open source community.
@@ -74,7 +74,7 @@ Apple's example, which gets a new fork every now and then, together with a Githu
 and which I wrote mostly to demonstrate how to share data between apps in iOS.
 
 
-## Web
+# Web
 Just like most mobile developers, when I heard people talk about web development 
 I was thinking about this bloated, inconsistent platform, where weird workarounds like 
 \<insert word here\>.js were advertised to cure all the issues but, in the end, they 
@@ -85,7 +85,7 @@ I was kinda right.
 
 But still, the web is constantly changing and evolving at a pretty crazy pace. You can find below some of the stuff I've worked on.
 
-### Eventmap
+## Eventmap
 Started from a huge pain that is Facebook Events and how I was invited to events by my 
 friends but I was never in the initial invite list from the organizers, I built Eventmap.
 
@@ -97,18 +97,18 @@ basically no maintenance and just works.
 
 You can check out Eventmap here: [eventmap.online](http://eventmap.online/)
 
-### Looking forward to expand this list
+## Looking forward to expand this list
 I'm looking to do some more work on the web, especially open source, so make sure you head 
 to the contact page and pick a way to follow me or get in touch if you are interested in 
 how things develop.
 
-## Others
+# Others
 I like to learn stuff and stay up-to-date with any developments so I'm always looking for new 
 things to do. I have a bunch of projects in progress, some open-source, some not, which I will 
 add to this list once they are complete. In the meantime you can find some info on the contact 
 page which you can use to check out the progress on them.
 
-### PyCage
+## PyCage
 I was super intreagued about Docker at one point but the concepts were pretty hard for me to 
 understand. I also wanted to learn a bit more about how the most popular Python solution 
 for isolating environments, virtualenv, worked. So, you guessed it, I built a virtualenv 
@@ -118,7 +118,7 @@ You can check out the code here: [https://github.com/macostea/cage](https://gith
 
 And the Hacker News thread here: [https://news.ycombinator.com/item?id=13461100](https://news.ycombinator.com/item?id=13461100)
 
-### DIY
+## DIY
 One of my core beliefs about the entire tech world is that technology should be accessible 
 to everyone without too much compromise. That's why I believe low-powered computing devices 
 will be key players in technology adoption in the future.
