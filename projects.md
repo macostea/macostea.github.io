@@ -102,6 +102,51 @@ I'm looking to do some more work on the web, especially open source, so make sur
 to the contact page and pick a way to follow me or get in touch if you are interested in 
 how things develop.
 
+# Startups
+I found out about startups and the entrepreneurial world in 2014 while attending a Startup Weekend 
+event. It absolutely fascinated me and I had the pleasure of working with a great team to build 
+an even greater startup.
+
+## ZenQ
+I've mentioned it before as part of my iOS experience but it is way more than that. ZenQ was the 
+context for a very important change of mentality in my life.
+
+ZenQ, "ze way to say thank you", was a service that allowed you to attach positive traits 
+to your friends in a very easy way. Swipe away, see a friend and a trait. Does it match? Is your 
+friend Jane insightful? Then tap on that giant check mark and she gets a notification saying that 
+you appreciate her insightfulness. Attach a nice message to go with it and you have an easy way 
+of letting your friends know how awesome they are.
+
+We got 2nd place at Startup Weekend followed by some positive feedback from our users, made it to a startup accelerator, but ultimately we decided to stop developing it.
+
+The experience, however, will stay with me for a very long while. On the one hand I got to work 
+with an amazing and diverse team which pushed me (even without them knowing) to be better and 
+to stay away from my comfort zone. On the other hand I now have the founder's itch. That means 
+my priorities have shifted dramatically from a regular guy that wants to do his job good to 
+"I want to do good, express myself and be a driving force for something bigger than myself".
+
+You can find more info about ZenQ here: //TODO: Add ZenQ links
+
+## Tutora
+I couldn't stop there so I went back to Startup Weekend the next year, this time ready to pitch my idea: 
+an internet platform where people who wanted to learn new things could find people willing to teach them. I 
+called it Tutora.
+
+I got some great feedback after pitching, gathered a team and started working. By Sunday we were ready 
+for the final pitch with some great researches, a small, hacked-together POC and a lot of excitement. 
+Judges were impressed so we got 3rd place and the opportunity to continue working at some local co-working 
+spaces. We continued working for a while but the enthusiasm slowly faded away.
+
+After some time, I met with a friend I worked with on ZenQ and she was very interested in joining the Tutora 
+team. She had some really great ideas on how to refresh the startup and do it better so we pivoted hard.
+
+Nowadays, Tutora is a regular offline meetup where people get together and share things from their day-to-day 
+lives and other people listen and give some feedback or ideas. Everything happens in a safe and fun 
+environment, usually around a table full of alcohol :)
+
+If you want to learn more about how it works check out this awesome post describing the concept and 
+benefits: [https://medium.com/@zornitsatomova/why-you-should-get-a-mastermind-group-5248f86f5e7c](https://medium.com/@zornitsatomova/why-you-should-get-a-mastermind-group-5248f86f5e7c)
+
 # Others
 I like to learn stuff and stay up-to-date with any developments so I'm always looking for new 
 things to do. I have a bunch of projects in progress, some open-source, some not, which I will 
@@ -109,7 +154,7 @@ add to this list once they are complete. In the meantime you can find some info 
 page which you can use to check out the progress on them.
 
 ## PyCage
-I was super intreagued about Docker at one point but the concepts were pretty hard for me to 
+I was super intrigued about Docker at one point but the concepts were pretty hard for me to 
 understand. I also wanted to learn a bit more about how the most popular Python solution 
 for isolating environments, virtualenv, worked. So, you guessed it, I built a virtualenv 
 clone that isolates environments directly in Docker containers.
