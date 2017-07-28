@@ -23,7 +23,7 @@ Android versions. You can check out some of the posts about this [here](http://o
 
 ## iOS
 Even though I started out with Android, I was always fascinated by Apple and all of their 
-wonderful products. Also I was exited to start creating apps rather than working at OS level. I saved enough money to buy a [MacBook Unibody](https://en.wikipedia.org/wiki/MacBook#Unibody_polycarbonate_model) (which still works btw) and the path to iOS development was right in front of me. Here are some of the projects I worked on:
+wonderful products. Also I was excited to start creating apps rather than working at OS level. I saved enough money to buy a [MacBook Unibody](https://en.wikipedia.org/wiki/MacBook#Unibody_polycarbonate_model) (which still works btw) and the path to iOS development was right in front of me. Here are some of the projects I worked on:
 
 ### GPS Navigation by Scout
 The first real-life iOS app I've worked on. Delightful to use, super popular in Europe and 
