@@ -44,7 +44,7 @@ More iOS specific here, I hacked together a fully working iOS client app at a St
 event which we released later, mostly unchanged (yeah, it was that good). With a Tinder inspired interface implemented from scratch, social media integrations and, later on, notifications, 
 and in-app messaging the app quickly grew in the hearts of many.
 
-Check out ZenQ here //TODO: ADD ZENQ LINKS, and also the story behind it below.
+Check out a ZenQ presentation video [here](https://drive.google.com/file/d/0BziKdlOCmVqRRzNUZkM1b2FvOFk/view?usp=sharing), and also the story behind it [below](#zenq-1).
 
 ### Catwalk15
 You know enough about me so far to understand that I don't really stop. Challenges are my 
@@ -127,7 +127,7 @@ to stay away from my comfort zone. On the other hand I now have the founder's it
 my priorities have shifted dramatically from a regular guy that wants to do his job good to 
 "I want to do good, express myself and be a driving force for something bigger than myself".
 
-You can find more info about ZenQ here: //TODO: Add ZenQ links
+The ZenQ website is no longer online but you can check out a presentation video [here](https://drive.google.com/file/d/0BziKdlOCmVqRRzNUZkM1b2FvOFk/view?usp=sharing).
 
 ### Tutora
 I couldn't stop there so I went back to Startup Weekend the next year, this time ready to pitch my idea: 
