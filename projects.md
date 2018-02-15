@@ -89,12 +89,12 @@ But still, the web is constantly changing and evolving at a pretty crazy pace. Y
 
 ### Eventmap
 Started from a huge pain that is Facebook Events and how I was invited to events by my 
-friends but I was never in the initial invite list from the organizers, I built Eventmap.
+friends but I was never in the initial invite list from the organizers.
 
 Eventmap is just a map of the local events (revolutionary!) but it serves its purpose 
-well. With a Python backend which servers data scraped from different sources (Facebook, Meetup), 
-a nice, cool interface written with Vue.js, rendered server-side and hosted on S3 and everything 
-containerized where that made sense, I believe I hit the sweet spot for an application that needs 
+well. With a Python backend which serves data scraped from different sources (Facebook, Meetup), 
+a cool interface written with Vue.js, rendered server-side and hosted on S3 and everything 
+containerized, I believe I hit the sweet spot for an application that needs 
 basically no maintenance and just works.
 
 You can check out Eventmap here: [eventmap.online](http://eventmap.online/)
