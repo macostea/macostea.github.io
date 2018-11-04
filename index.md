@@ -7,7 +7,7 @@ permalink: /
 # Hi there!
 
 My name is Mihai and I create awesome software. I am currently based in Romania, right in
-the heart of Transylvania, in the city of [Cluj-Napoca](https://map.what3words.com/orders.lands.luring){:target="_blank"}.
+the heart of Transylvania, in the city of [Cluj-Napoca](https://www.openstreetmap.org/#map=13/46.7701/23.5874){:target="_blank"}.
 
 I've worked with a lot of technologies since I started doing this. Here are a bunch of them, 
 listed in no specific order (I'm not particularly good at SEO so I really hope listing these 
