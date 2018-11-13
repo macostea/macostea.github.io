@@ -9,7 +9,7 @@ title: Blog
 		<h3>{{ tag[0] }}</h3>
 		<ul>
 			{% for post in tag[1] %}
-			<li><i>{{ post.date | date: "%b %d" }}</i> &#183;  <a href="{{ post.url }}">{{ post.title }}</a></li>
+			<li>&#128197; <i>{{ post.date | date: "%b %d" }}</i> &#183;  <a href="{{ post.url }}">{{ post.title }}</a></li>
 			{% endfor %}
 		</ul>
 	{% endfor %}
