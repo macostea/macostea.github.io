@@ -3,7 +3,7 @@ layout: post
 title: "DIY Smart Home"
 author: "Mihai Costea"
 tags: [2020]
-category: [Smart Home]
+category: [smart-home]
 ---
 
 {:.header}
@@ -31,6 +31,9 @@ This one was pretty easy:
 The project has evolved a lot in the past 2 years and I'll try to remember the details and iterations for each part but I can't promise it's going to be a great write-up.
 
 I do promise, however, that any new development starting now will be properly documented in this series. But until then, let's just catch up.
+
+# Next up
+Read on about the [solution overview]({% post_url /blog/2021-01-02-home-manager-solution-overview %}).
 
 ---
 
