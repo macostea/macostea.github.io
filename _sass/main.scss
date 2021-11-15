@@ -1,5 +1,7 @@
 body {
     font-family: $font-stack;
+    background-color: $background-color;
+    color: $main-font-color;
 }
 
 img {
@@ -17,17 +19,54 @@ img {
     margin: 0 auto;
 }
 
+h1 {
+    color: $header-font-color;
+}
+
 nav {
+    border-bottom: 1px solid #ccc;
+
     ul {
         list-style: none;
-        float: right;
+        float: left;
+        padding-left: 0;
         li {
             float: left;
-            padding-left: $nav-padding;
+            padding-right: $nav-padding;
 
             a {
-                padding-left: $nav-padding;
+                padding-right: $nav-padding;
+                color: $nav-color;
+                text-decoration: none;
+
+                &.current {
+                    color: $nav-color-current;
+                }
             }
         }
     }
+
+    &:after {
+        content: "";
+        clear: both;
+        display: table;
+    }
+
+}
+
+main {
+    a {
+        color: $main-font-link-color;
+        text-decoration: none;
+        border-bottom: 1px dotted #ccc;
+
+        &:hover {
+            color: $main-font-link-hover-color;
+        }
+    }
+}
+
+hr {
+    border: none;
+    border-top: 0.5px solid #eee;
 }

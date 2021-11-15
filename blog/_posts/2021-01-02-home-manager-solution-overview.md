@@ -6,7 +6,8 @@ tags: [2021]
 category: [smart-home]
 ---
 
-# Solution Overview
+***
+
 In [part one]({% post_url /blog/2020-12-27-diy-smart-home %}) I've described the goals of "Home Manager". Now, let's see how it works.
 
 # Components

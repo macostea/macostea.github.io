@@ -11,7 +11,6 @@ category: [smart-home]
 
 
 
-# DIY Smart Home
 About 2 years ago I started to work on a project I unimaginatively called "HomeManager". I was fascinated with small computers, sensors and the likes and I wanted to build my own smart home, whatever that meant.
 
 I used this project to learn more about small computers, different programming languages, software architecture,  deployment methods and electronics in general, on top of having a cool project to work on whenever I was bored.

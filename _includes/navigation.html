@@ -1,8 +1,10 @@
+{% assign current = page.url | downcase | split: '/' %}
+
 <nav>
     <ul>
-        <li><a href="/">Home</a></li>
-        <li><a href="/projects">Projects</a></li>
-        <li><a href="/contact">Contact</a></li>
-	<li><a href="/blog">Blog</a></li>
+        <li><a href="/" {% unless current[1] %}class='current'{% endunless %}>Home</a></li>
+        <li><a href="/projects" {% if current[1] == 'projects' %}class='current'{% endif %}>Projects</a></li>
+        <li><a href="/contact" {% if current[1] == 'contact' %}class='current'{% endif %}>Contact</a></li>
+	<li><a href="/blog" {% if current[1] != nil and current[1] != 'projects' and current[1] != 'contact' %}class='current'{% endif %}>Blog</a></li>
     </ul>
 </nav>
