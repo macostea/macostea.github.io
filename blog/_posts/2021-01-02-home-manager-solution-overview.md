@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Solution Overview"
+title: "DIY Smart Home - Solution Overview"
 author: "Mihai Costea"
 tags: [2021]
 category: [smart-home]
