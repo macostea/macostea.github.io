@@ -1,6 +1,6 @@
 # Welcome to Jekyll!
 
-title: Mihai Costea - Awesome Software Developer
+title: Mihai Costea - Pretty great software developer
 email: mihai `String.fromCharCode(64)` mcostea `md5dec('5058f1af8388633f609cadb75a75dc9d')` com
 description: >
   Hi there! My name is Mihai and I create awesome software. I'm pretty sure you won't get
@@ -13,5 +13,21 @@ github_username:  macostea
 medium_username: mcostea
 linkedin_username: macostea
 
+twitter:
+  username: mcostea
+  card: summary
+
+social:
+  name: Mihai Costea
+  links:
+    - https://twitter.com/mcostea
+    - https://linkedin.com/in/macostea
+
+timezone: Europe/Bucharest
+
 # Build settings
 markdown: kramdown
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap

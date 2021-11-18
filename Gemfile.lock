@@ -276,6 +276,8 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   jekyll-feed (~> 0.6)
+  jekyll-seo-tag
+  jekyll-sitemap
   tzinfo-data
   webrick (~> 1.7)
 
